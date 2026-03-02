@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const CalculatorApp());
+  runApp(const CalculadoraApp());
 }
 
-class CalculatorApp extends StatelessWidget {
-  const CalculatorApp({super.key});
+class CalculadoraApp extends StatelessWidget {
+  const CalculadoraApp({super.key});
 
   @override
   Widget build(BuildContext context) {
